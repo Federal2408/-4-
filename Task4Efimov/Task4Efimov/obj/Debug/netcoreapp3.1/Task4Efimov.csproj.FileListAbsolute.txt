@@ -1,0 +1,13 @@
+C:\Users\Sanch\source\repos\Task4Efimov\Task4Efimov\bin\Debug\netcoreapp3.1\Task4Efimov.exe
+C:\Users\Sanch\source\repos\Task4Efimov\Task4Efimov\bin\Debug\netcoreapp3.1\Task4Efimov.deps.json
+C:\Users\Sanch\source\repos\Task4Efimov\Task4Efimov\bin\Debug\netcoreapp3.1\Task4Efimov.runtimeconfig.json
+C:\Users\Sanch\source\repos\Task4Efimov\Task4Efimov\bin\Debug\netcoreapp3.1\Task4Efimov.runtimeconfig.dev.json
+C:\Users\Sanch\source\repos\Task4Efimov\Task4Efimov\bin\Debug\netcoreapp3.1\Task4Efimov.dll
+C:\Users\Sanch\source\repos\Task4Efimov\Task4Efimov\bin\Debug\netcoreapp3.1\Task4Efimov.pdb
+C:\Users\Sanch\source\repos\Task4Efimov\Task4Efimov\obj\Debug\netcoreapp3.1\Task4Efimov.csprojAssemblyReference.cache
+C:\Users\Sanch\source\repos\Task4Efimov\Task4Efimov\obj\Debug\netcoreapp3.1\Task4Efimov.AssemblyInfoInputs.cache
+C:\Users\Sanch\source\repos\Task4Efimov\Task4Efimov\obj\Debug\netcoreapp3.1\Task4Efimov.AssemblyInfo.cs
+C:\Users\Sanch\source\repos\Task4Efimov\Task4Efimov\obj\Debug\netcoreapp3.1\Task4Efimov.csproj.CoreCompileInputs.cache
+C:\Users\Sanch\source\repos\Task4Efimov\Task4Efimov\obj\Debug\netcoreapp3.1\Task4Efimov.dll
+C:\Users\Sanch\source\repos\Task4Efimov\Task4Efimov\obj\Debug\netcoreapp3.1\Task4Efimov.pdb
+C:\Users\Sanch\source\repos\Task4Efimov\Task4Efimov\obj\Debug\netcoreapp3.1\Task4Efimov.genruntimeconfig.cache
